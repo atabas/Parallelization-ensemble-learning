@@ -16,3 +16,8 @@ is big enough to allow us to simulate a big data problem and experiment with par
 
 The end to end algorithm has been implemented with python’s multi-processing framework along with joblib wrapper, numpy, pandas, 
 scikit learn and Keras.
+
+![image](https://user-images.githubusercontent.com/1936040/50262255-2c28b880-03de-11e9-9d0d-6087fcbbf44f.png)
+
+
+![image](https://user-images.githubusercontent.com/1936040/50262250-29c65e80-03de-11e9-9d41-5a15373d772e.png)
